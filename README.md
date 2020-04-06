@@ -1,2 +1,2 @@
-# danilhano-gmail.com
+# My project
 Angular and Angular Material
